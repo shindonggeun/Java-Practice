@@ -18,6 +18,14 @@ public class Animal {
         this.name = name;
     }
 
+    public int getSize() {
+        return size;
+    }
+
+    public void setSize(int size) {
+        this.size = size;
+    }
+
     public void sound() {
         System.out.println("동물 울음 소리");
     }
