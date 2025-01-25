@@ -1,6 +1,6 @@
-package generic.ex1;
+package mid2.generic.ex2;
 
-public class GenericBox<T> {
+public class Box<T> {
 
     private T value;
 
