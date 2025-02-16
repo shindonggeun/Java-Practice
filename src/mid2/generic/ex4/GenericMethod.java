@@ -1,4 +1,4 @@
-package mid2.generic.test.ex4;
+package mid2.generic.ex4;
 
 public class GenericMethod {
 
